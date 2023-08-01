@@ -2,11 +2,11 @@
 
 <img src="./.github/preview.png" alt="Preview do projeto." />
 
-* <a href="">Acesse aqui.</a>
+* <a href="https://buscador-cep-neon.vercel.app">Acesse aqui.</a>
 
 ## 💻 O Projeto
 
-O Buscador de endereço por CEP é uma página onde usuário digita seu CEP e o sistema retorna os dados de endereço do CEP, como rua, bairro, cidade e estado, através da API <a href="https://viacep.com.br">Via CEP</a>. Feito com base na video-aula encontrada <a href="https://www.youtube.com/watch?v=oy4cbqE1_qc">aqui</a>.Nesse projeto vi os conhecimentos:
+O Buscador de endereço por CEP é uma página onde usuário digita seu CEP e o sistema retorna os dados de endereço do CEP, como rua, bairro, cidade e estado, através da API <a href="https://viacep.com.br">Via CEP</a>. Feito com base na video-aula encontrada <a href="https://www.youtube.com/watch?v=oy4cbqE1_qc">aqui</a>. Nesse projeto vi os conhecimentos:
 * Princípios de ReactJS
 * ReactDOM
 * Uso da lib React Icons
@@ -26,7 +26,7 @@ git clone https://github.com/lucyanovidio/buscador-cep.git
 ```
 npm install
 ```
-- Inicie o servidor:
+- Rode o projeto:
 ```
 npm start
 ```

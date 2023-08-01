@@ -60,7 +60,7 @@ function App() {
 
           <span>Rua: {cep.logradouro}</span>
 
-          {Object.keys(cep.complemento) != "" ? (<span>Complemento: {cep.complemento}</span>) : ""}
+          {Object.keys(cep.complemento) !== "" ? (<span>Complemento: {cep.complemento}</span>) : ""}
 
           <span>Bairro: {cep.bairro}</span>
           <span>{cep.localidade} - {cep.uf}</span>
