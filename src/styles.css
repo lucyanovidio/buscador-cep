@@ -4,11 +4,11 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(#121212, #212b46);
+    background: rgb(19, 19, 20);
 }
 
 .title {
-    font-size: 8.5rem;
+    font-size: 6.5rem;
     color: #fff;
     animation: flipTitle 2s;
 }
